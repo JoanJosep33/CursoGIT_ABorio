@@ -16,10 +16,10 @@
 /* ==== CSS VARIABLES ==== */
 :root {
   --primary-color: red;
-  --link-color: #506690;
+  --link-color: #0059ff;
   --btn-hover-color: #2b50c7;
-  --lg-heading: #161c2d;
-  --text-content: #869ab8;
+  --lg-heading: #ff00dd;
+  --text-content: #8c00ff;
   --fixed-header-height: 4.5rem;
 }
 
